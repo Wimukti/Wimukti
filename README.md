@@ -1,5 +1,5 @@
 <a href="#"><p align="center" ><img 
- src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p></a>
+ src="https://github.com/Wimukti/Wimukti/blob/main/Copy%20of%20LinkedIn%20Cover%20(1).gif" width="800%"/></p></a>
 
 <h1 align="center" style="font-weight:bold;">Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Wimukthi Indeewara   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
