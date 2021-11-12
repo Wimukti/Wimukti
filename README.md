@@ -20,17 +20,6 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
    <p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=wimukti"/>       
 </p>
-<br>
-<br>
-
-![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
-<br>
-<br> 
- 
- 
- 
- 
- 
  
  ### 👨‍💻 Programming languages
 
@@ -88,11 +77,11 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
   </a>
 </p>
 
-
-
-
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=wimukti&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+    
+![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+<br>
