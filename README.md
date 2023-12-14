@@ -10,7 +10,6 @@
 <p align="center">
 Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people
 <br><br>
-  · <a href="https://drive.google.com/file/d/15x_Z0XDPK4N_wu3nDe2Yj4HVedCCNn9Y/view?usp=sharing">Resume</a>
  · 
 <br>
  <p align="center">
