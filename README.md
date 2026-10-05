@@ -51,11 +51,11 @@ Moratuwa. Published as **Wimukthi Nimalsiri** · 96 citations on
 | --- | --- |
 | [ReviewStage](https://github.com/Wimukti/reviewstage) | Human-gated PR review on Claude Code: desktop app, phone, team server. |
 | [CXLSeg](https://github.com/Wimukti/CXLSeg) | Code for the CXLSeg dataset: lung segmentation, classification, report generation. |
-| [ChestXpert](https://github.com/Wimukti/ChestXpert) | A web framework for generating medical reports from chest X-rays. |
+| [ChestXpert](https://github.com/Wimukti/ChestXpert) | Writes radiology reports from chest X-rays: CNN + ViT encoder, transformer decoder, MIMIC-CXR. |
 | [whispr](https://github.com/Wimukti/whispr) | A secure chat application over visible light communication. |
 | [wisdom](https://github.com/Wimukti/wisdom) | Content generation with knowledge retrieval. |
 
 ### Work with
 
 TypeScript · React · Node.js · Python · Go · PHP · GraphQL · Electron · Flutter · PyTorch ·
-MySQL · PostgreSQL · Docker · AWS · GitHub Actions
+TensorFlow · MySQL · PostgreSQL · Docker · AWS · GitHub Actions
